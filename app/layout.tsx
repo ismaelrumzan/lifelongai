@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Lifelong AI",
-  description: "Empower the most Vulnerable Refugees",
+  description:
+    "Empower the most Vulnerable Refugees - Providing employment and training opportunities in the Artificial Intelligence sector",
 };
 
 export default function RootLayout({
